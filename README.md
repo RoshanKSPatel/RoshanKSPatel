@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Roshan Kumar Singh</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt = "coding"  width="370" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anjali77529&label=Profile%20views&color=0e75b6&style=flat" alt="anjali77529" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshankspatel&label=Profile%20views&color=0e75b6&style=flat" alt="roshankspatel" /> </p>
 
 - 🔭 I’m currently working on **School Management Project**
 
@@ -63,11 +63,11 @@
 
 </td></tr></table>  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bedantadebendra&show_icons=true&locale=en&layout=compact" alt="bedantadebendra" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshankspatel&show_icons=true&locale=en&layout=compact" alt="roshankspatel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjali77529&show_icons=true&locale=en" alt="anjali77529" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roshankspatel&show_icons=true&locale=en" alt="roshankspatel" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjali77529&" alt="anjali77529" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshankspatel&" alt="roshankspatel" /></p>
 
 
 
