@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://www.synergisticit.com/wp-content/uploads/2021/10/Jacksonville-Banner-mern-stack-training.jpg" align="center" style="width: 100%" />
 </div>  
-<h1 align="center">Hi 👋, I'm Anjali Sahani</h1>
+<h1 align="center">Hi 👋, I'm Roshan Kumar Singh</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt = "coding"  width="370" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjali77529&label=Profile%20views&color=0e75b6&style=flat" alt="anjali77529" /> </p>
@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact: I use tabs over spaces  
 
-- 📫 How to reach me **anjalisahani840@gmail.com**
+- 📫 How to reach me **roshan97patel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
